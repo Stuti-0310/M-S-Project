@@ -71,5 +71,3 @@ To start contributing, follow the below guidelines:
 ```
    git merge upstream/master
 ```
-
-© 2021 Saurav Mukherjee and contributors\
