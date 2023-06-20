@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
-    background-color: antiquewhite;
+    background-color: black;
 }
 
 *{
@@ -18,8 +18,8 @@ nav ul{
     align-items: center;
     list-style-type: none;
     height: 65px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 nav ul li{
@@ -74,8 +74,13 @@ nav ul li{
     cursor: pointer;
 }
 
+.songList{
+    align-items: center;
+}
+
 .songItemContainer{
     margin-top: 74px;
+    align-items: center;
 }
 
 .songItem{
@@ -117,6 +122,6 @@ nav ul li{
 
 @media only screen and (max-width: 1100px) {
     body {
-      background-color: red;
+      background-color: black;
     }
   }
