@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
-    background-color: black;
+    background-color: white;
 }
 
 *{
@@ -58,7 +58,7 @@ nav ul{
     align-items: center;
     list-style-type: none;
     height: 65px;
-    background-color: white;
+    background-color: black;
     color: black;
 }
 
@@ -71,6 +71,7 @@ nav ul li{
 }
 
 .brand {
+    color: white;
     display: flex;
     align-items: center;
     font-weight: bolder;
