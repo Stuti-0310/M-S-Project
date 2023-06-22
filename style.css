@@ -17,7 +17,8 @@ body{
     flex-direction: row;
 }
 
-.logonav.brand{
+.logonav.logo{
+    color: black;
     position: absolute;
     width: 112px;
     height: 24px;
@@ -25,12 +26,12 @@ body{
     top: 54px;
 }
 
-.brand img{
+.logo img{
     padding: 0 12px;
     width: 44px;
 }
 
-.brand {
+.logo {
     display: flex;
     align-items: center;
     font-weight: bolder;
